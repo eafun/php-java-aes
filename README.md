@@ -1,2 +1,2 @@
 # php-aes
-php-aes encrypt&decrypt match with java project
+php-aes encrypt&decrypt match with java

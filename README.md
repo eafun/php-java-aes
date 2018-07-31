@@ -5,6 +5,9 @@ Compatible with php7, removed mcrypt dependency.
 ### PHP Dependencies
 - openssl
 
+### Cipher:
+AES-128-ECB
+
 ### Usage Example:
 
 ------------

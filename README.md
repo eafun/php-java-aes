@@ -1,11 +1,12 @@
 # php-java-aes
 php-aes encrypt&decrypt match with java
+### PHP Dependencies
+- openssl
 
-PHP Dependencies
-openssl
+### Usage Example:
 
-Usage Example:
-
+------------
+```php
 $key = 'abcdef';
 $aes = new Aes();
 
@@ -16,3 +17,5 @@ echo $encrypted.PHP_EOL;
 #do decrypt
 $decrypted = $aes->decrypt($encrypted,$key);
 echo $decrypted.PHP_EOL;
+
+```

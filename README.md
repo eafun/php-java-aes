@@ -1,5 +1,7 @@
 # php-java-aes
 php-aes encrypt&decrypt match with java
+
+Compatible with php7, delete mcrypt dependency.
 ### PHP Dependencies
 - openssl
 
